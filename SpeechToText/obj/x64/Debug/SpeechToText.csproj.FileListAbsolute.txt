@@ -1,0 +1,11 @@
+C:\Users\Alex_CaiNan\source\repos\SpeechToText\SpeechToText\bin\x64\Debug\Microsoft.CognitiveServices.Speech.core.dll
+C:\Users\Alex_CaiNan\source\repos\SpeechToText\SpeechToText\bin\x64\Debug\Microsoft.CognitiveServices.Speech.extension.kws.dll
+C:\Users\Alex_CaiNan\source\repos\SpeechToText\SpeechToText\bin\x64\Debug\SpeechToText.exe.config
+C:\Users\Alex_CaiNan\source\repos\SpeechToText\SpeechToText\bin\x64\Debug\SpeechToText.exe
+C:\Users\Alex_CaiNan\source\repos\SpeechToText\SpeechToText\bin\x64\Debug\SpeechToText.pdb
+C:\Users\Alex_CaiNan\source\repos\SpeechToText\SpeechToText\bin\x64\Debug\Microsoft.CognitiveServices.Speech.csharp.dll
+C:\Users\Alex_CaiNan\source\repos\SpeechToText\SpeechToText\bin\x64\Debug\Microsoft.CognitiveServices.Speech.csharp.xml
+C:\Users\Alex_CaiNan\source\repos\SpeechToText\SpeechToText\obj\x64\Debug\SpeechToText.csprojAssemblyReference.cache
+C:\Users\Alex_CaiNan\source\repos\SpeechToText\SpeechToText\obj\x64\Debug\SpeechToText.csproj.CopyComplete
+C:\Users\Alex_CaiNan\source\repos\SpeechToText\SpeechToText\obj\x64\Debug\SpeechToText.exe
+C:\Users\Alex_CaiNan\source\repos\SpeechToText\SpeechToText\obj\x64\Debug\SpeechToText.pdb
